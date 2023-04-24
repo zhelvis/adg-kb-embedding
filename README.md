@@ -4,6 +4,8 @@
 
 This repository contains the code for creating and evaluating the embeddings for the [Adguard Knowledge Base](https://github.com/AdguardTeam/KnowledgeBase).
 
+Compiled data in `dist/embeddings.csv`
+
 This project is heavily inspired by [Open AI Website QA tutorial](https://platform.openai.com/docs/tutorials/web-qa-embeddings).
 
 ## Installation
