@@ -1,0 +1,6 @@
+# environments
+env/
+.env
+
+# folder with downloaded raw data
+data/
